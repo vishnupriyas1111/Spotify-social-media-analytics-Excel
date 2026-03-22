@@ -33,7 +33,9 @@ This project analyzes Spotify’s social media performance across multiple platf
 5. Derived insights and recommendations based on trends
 
 ## Dashboard Preview
-
+![Dashboard](images/platform_performance_analysis.png)
+![Dashboard](images/follower_analysis.png)
+![Dashboard](images/campaign_effectiveness.png)
 
 ## Key Insights
 - Twitter achieved the highest engagemnt rate (~9.6 %) making it the most effective platform for user interaction.
@@ -44,7 +46,7 @@ This project analyzes Spotify’s social media performance across multiple platf
 - Identified the campaign with the highest ROI (0.0465), highlighting cost-effective marketing strategies.
 - Moving average analysis indicates relatively stable follower growth over time, suggesting strong audience retention.
 - No strong correlation found between ad spend and engagement, implying that engagement is influenced by multiple external factors.
-- 
+  
 
 ## Recommendations
 - Prioritize Twitter for engagement-driven campaigns and Instagram for sustained audience growth.
